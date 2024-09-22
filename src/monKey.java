@@ -10,7 +10,7 @@ public class monKey {
     }
 }
 class Monkey1{
-    public static int eat(int day,int m){
+     int eat(int day,int m){
         if(day==10)
             return 1;
         else
