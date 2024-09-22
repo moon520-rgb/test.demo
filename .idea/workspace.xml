@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3815f4b-6594-4055-84ce-3bc52ab69df4" name="更改" comment="First Commit">
-      <change beforePath="$PROJECT_DIR$/src/monKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/monKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/love.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,38 +42,41 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2mPha5DoPQ7rw4VtgZnaAxI0CVG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java/java code/recursion&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/java/java code/recursion/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;应用程序.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.feibonaqie.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.miGong (1).executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.miGong (2).executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.miGong (3).executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.miGong (4).executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.miGong (5).executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.miGong.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.monKey (1).executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.monKey (2).executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.monKey (3).executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.monKey (4).executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.monKey.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/java/java code/recursion",
+    "onboarding.tips.debug.path": "D:/java/java code/recursion/src/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "应用程序.Main (1).executor": "Run",
+    "应用程序.Main.executor": "Run",
+    "应用程序.feibonaqie.executor": "Run",
+    "应用程序.love.executor": "Run",
+    "应用程序.miGong (1).executor": "Run",
+    "应用程序.miGong (2).executor": "Run",
+    "应用程序.miGong (3).executor": "Run",
+    "应用程序.miGong (4).executor": "Run",
+    "应用程序.miGong (5).executor": "Run",
+    "应用程序.miGong.executor": "Run",
+    "应用程序.monKey (1).executor": "Run",
+    "应用程序.monKey (2).executor": "Run",
+    "应用程序.monKey (3).executor": "Run",
+    "应用程序.monKey (4).executor": "Run",
+    "应用程序.monKey.executor": "Run"
   }
-}</component>
-  <component name="RunManager" selected="应用程序.miGong (5)">
-    <configuration name="miGong (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="miGong" />
+}]]></component>
+  <component name="RunManager" selected="应用程序.love">
+    <configuration name="love" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="love" />
       <module name="recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.love" />
         <item itemvalue="应用程序.miGong (5)" />
         <item itemvalue="应用程序.miGong (4)" />
         <item itemvalue="应用程序.miGong" />
         <item itemvalue="应用程序.miGong (3)" />
-        <item itemvalue="应用程序.miGong (2)" />
       </list>
     </recent_temporary>
   </component>
